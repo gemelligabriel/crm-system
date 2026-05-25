@@ -1,4 +1,4 @@
-# Customer Relationship Management - Sprint 6 | AGES
+# Customer Relationship Management - AGES
 
 MVP fullstack para gerenciamento simples de pacientes.
 
