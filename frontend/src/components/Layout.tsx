@@ -12,7 +12,7 @@ export default function Layout({ children }: LayoutProps) {
       <header className="topbar">
         <Link to="/patients" className="brand">
           <HeartPulse size={28} aria-hidden />
-          <span>Lume System</span>
+          <span>Customer Relationship Management</span>
         </Link>
 
         <nav className="nav-actions">
