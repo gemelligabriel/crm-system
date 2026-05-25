@@ -1,6 +1,6 @@
-# Lume System - Sprint 6
+# Customer Relationship Management - Sprint 6 | AGES
 
-MVP fullstack para gerenciamento simples de pacientes, eventos/consultas e evolucoes/prontuario.
+MVP fullstack para gerenciamento simples de pacientes.
 
 ## Estrutura
 
